@@ -1,0 +1,19 @@
+Shortest path using Dijkstra alg:
+Path: a, l, t
+Path distance: 130
+Number of vertices visited: 16
+
+Second shortest path using Dijkstra alg:
+Path: a, l, q, t
+Path distance: 131
+Number of vertices visited: 33
+
+Shortest path using A* alg:
+Path: a, l, t
+Path distance: 130
+Number of vertices visited: 9
+
+Second shortest path using A* alg:
+Path: a, l, q, t
+Path distance: 131
+Number of vertices visited: 19
